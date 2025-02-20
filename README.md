@@ -1,1 +1,1 @@
-# scrapytest
+scrapy runspider fixprice.py -o test.json
